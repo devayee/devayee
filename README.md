@@ -1,7 +1,11 @@
 <h1 align="center">Hey, I'm <a href="https://github.com/devayee">devayee</a> 👋</h1>
 
 <p align="center">
-  <b>FiveM & Web Developer</b> building modern tools, systems and experiences for the GTA V roleplay community.
+  <b>Systems Administrator • FiveM Developer • Web Developer</b>
+</p>
+
+<p align="center">
+  Designing systems, building infrastructure and developing tools that keep digital worlds running.
 </p>
 
 <p align="center">
@@ -11,6 +15,9 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=beee11" />
+  <img src="https://img.shields.io/badge/Servers-111111?style=for-the-badge&logo=serverfault&logoColor=beee11" />
+  <img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logo=cisco&logoColor=beee11" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -21,12 +28,88 @@
 
 ---
 
-## 🔧 What I Work On
+## ⚡ About Me
 
-* 🧩 Framework-agnostic tools for **ESX, QBCore & QBox**
-* 🎮 Advanced FiveM gameplay systems and resources
-* 🌐 Modern websites, dashboards and web applications
-* 📦 Open-source resources built to be useful, maintainable and easy to use
+I work across the entire stack — from infrastructure and servers to the interfaces people actually use.
+
+My work sits at the intersection of:
+
+* 🖥️ **System Administration & Server Infrastructure**
+* 🌐 **Web Development & Modern Interfaces**
+* 🎮 **FiveM Development & GTA V Roleplay Systems**
+* ⚙️ **Automation, Monitoring & Tooling**
+* 🗄️ **Databases, Backend Systems & Integrations**
+
+I enjoy taking complex systems, breaking them down and turning them into something reliable, scalable and easy to use.
+
+---
+
+## 🖥️ Systems & Infrastructure
+
+I am interested in more than just writing code.
+
+I work with the systems behind the code.
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    SYSTEMS & INFRASTRUCTURE                 │
+├─────────────────────────────────────────────────────────────┤
+│  Server Management        │  Linux & System Administration  │
+│  Networking               │  Services & Deployments         │
+│  Monitoring               │  Automation & Maintenance       │
+│  Security                 │  Performance & Reliability      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+My goal is simple:
+
+> Build systems that stay online, stay maintainable and don't fall apart under pressure.
+
+---
+
+## 🎮 FiveM Development
+
+I build advanced systems and resources for the GTA V roleplay ecosystem.
+
+### What I work on
+
+* 🧩 Framework-agnostic systems
+* ⚙️ ESX, QBCore & QBox integrations
+* 🛠️ Advanced gameplay systems
+* 🖥️ NUI interfaces and admin panels
+* 📊 Dashboards and management tools
+* 🗄️ Database-driven resources
+* 🔌 Framework bridges and integrations
+* 🚀 Performance-focused resources
+
+I am especially interested in building systems that feel like real software — not just scripts thrown together for one server.
+
+---
+
+## 🌐 Web Development
+
+I build modern web interfaces, dashboards and tools with a focus on:
+
+* Clean and responsive UI
+* Glassmorphism and modern interfaces
+* Admin dashboards
+* Real-time systems
+* API integrations
+* Frontend architecture
+* Backend logic
+* Database-driven applications
+
+My favorite part of development is taking an idea that looks like:
+
+```text
+"Wouldn't it be cool if..."
+```
+
+and turning it into:
+
+```text
+"Wait... this actually works."
+```
 
 ---
 
@@ -37,7 +120,7 @@
     <td width="50%">
       <h3 align="center">d-bridge</h3>
       <p align="center">
-        A framework-agnostic bridge for ESX, QBCore and QBox.
+        A framework-agnostic bridge designed to simplify integrations between ESX, QBCore and QBox.
       </p>
       <p align="center">
         <a href="https://github.com/devayee/d-bridge">
@@ -45,21 +128,37 @@
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">Advanced Crafting</h3>
-      <p align="center">
-        A multi-stage crafting system with blueprints, progression, quality tiers and tool durability.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Coming%20Soon-555555?style=for-the-badge" />
-      </p>
-    </td>
+
+```
+<td width="50%">
+  <h3 align="center">Advanced Crafting</h3>
+  <p align="center">
+    A multi-stage crafting system featuring blueprints, progression, quality tiers and tool durability.
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Coming%20Soon-555555?style=for-the-badge" />
+  </p>
+</td>
+```
+
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Current Focus
+
+```text
+[ SYSTEMS ]      Infrastructure, servers and reliability
+[ DEVELOPMENT ]   FiveM resources and web applications
+[ UI/UX ]         Modern dashboards and interfaces
+[ AUTOMATION ]    Tools that remove repetitive work
+[ LEARNING ]      Always improving. Always building.
+```
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devayee&show_icons=true&hide_border=true&theme=dark&title_color=beee11&icon_color=beee11&text_color=ffffff&bg_color=0d1117" height="165" />
@@ -68,12 +167,13 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://discord.com">
     <img src="https://img.shields.io/badge/Discord-devajs-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+
   <a href="https://forum.cfx.re/u/devayee/summary">
     <img src="https://img.shields.io/badge/Cfx.re-Profile-F40552?style=for-the-badge" />
   </a>
@@ -82,9 +182,13 @@
 ---
 
 <p align="center">
-  <i>Building tools, systems and experiences for the next generation of roleplay servers.</i>
+  <b>Systems. Servers. Code.</b>
 </p>
 
 <p align="center">
-  ⭐ If you find my projects useful, consider giving them a star!
+  <i>Building the infrastructure behind the experience.</i>
+</p>
+
+<p align="center">
+  ⭐ If you find something useful, consider giving it a star.
 </p>
