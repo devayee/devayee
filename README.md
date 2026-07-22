@@ -112,7 +112,7 @@ I build modern web interfaces, dashboards and tools with a focus on:
       </p>
     </td>
 
-```
+
 <td width="50%">
   <h3 align="center">Advanced Crafting</h3>
   <p align="center">
@@ -122,7 +122,7 @@ I build modern web interfaces, dashboards and tools with a focus on:
     <img src="https://img.shields.io/badge/Coming%20Soon-555555?style=for-the-badge" />
   </p>
 </td>
-```
+
 
   </tr>
 </table>
