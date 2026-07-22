@@ -127,19 +127,12 @@ I build modern web interfaces, dashboards and tools with a focus on:
   </tr>
 </table>
 
----
 
-## 🧠 Current Focus
-
-```text
-[ SYSTEMS ]      Infrastructure, servers and reliability
-[ DEVELOPMENT ]   FiveM resources and web applications
-[ UI/UX ]         Modern dashboards and interfaces
-[ AUTOMATION ]    Tools that remove repetitive work
-[ LEARNING ]      Always improving. Always building.
-```
+  </tr>
+</table>
 
 ---
+
 
 ## 📊 GitHub Activity
 
