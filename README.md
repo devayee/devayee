@@ -25,9 +25,7 @@
 
 * 🧩 Framework-agnostic tools for **ESX, QBCore & QBox**
 * 🎮 Advanced FiveM gameplay systems and resources
-* ⚙️ Crafting, economy, jobs and progression systems
 * 🌐 Modern websites, dashboards and web applications
-* 🎨 Clean, modern and responsive UI/UX
 * 📦 Open-source resources built to be useful, maintainable and easy to use
 
 ---
