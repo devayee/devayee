@@ -76,13 +76,9 @@ I build advanced systems and resources for the GTA V roleplay ecosystem.
 * 🧩 Framework-agnostic systems
 * ⚙️ ESX, QBCore & QBox integrations
 * 🛠️ Advanced gameplay systems
-* 🖥️ NUI interfaces and admin panels
-* 📊 Dashboards and management tools
-* 🗄️ Database-driven resources
-* 🔌 Framework bridges and integrations
+* 🖥️ NUI interfaces
 * 🚀 Performance-focused resources
 
-I am especially interested in building systems that feel like real software — not just scripts thrown together for one server.
 
 ---
 
@@ -91,25 +87,12 @@ I am especially interested in building systems that feel like real software — 
 I build modern web interfaces, dashboards and tools with a focus on:
 
 * Clean and responsive UI
-* Glassmorphism and modern interfaces
 * Admin dashboards
 * Real-time systems
 * API integrations
 * Frontend architecture
 * Backend logic
-* Database-driven applications
 
-My favorite part of development is taking an idea that looks like:
-
-```text
-"Wouldn't it be cool if..."
-```
-
-and turning it into:
-
-```text
-"Wait... this actually works."
-```
 
 ---
 
