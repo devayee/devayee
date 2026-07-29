@@ -4,9 +4,7 @@
   <b>Systems Administrator • FiveM Developer • Web Developer</b>
 </p>
 
-<p align="center">
-  Designing systems, building infrastructure and developing tools that keep digital worlds running.
-</p>
+
 
 <p align="center">
   <a href="https://github.com/devayee">
@@ -15,66 +13,58 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=beee11" />
-  <img src="https://img.shields.io/badge/Servers-111111?style=for-the-badge&logo=serverfault&logoColor=beee11" />
   <img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logo=cisco&logoColor=beee11" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## ⚡ About Me
+## // About Me
 
-I work across the entire stack — from infrastructure and servers to the interfaces people actually use.
 
 My work sits at the intersection of:
 
 * 🖥️ **System Administration & Server Infrastructure**
-* 🌐 **Web Development & Modern Interfaces**
-* 🎮 **FiveM Development & GTA V Roleplay Systems**
-* ⚙️ **Automation, Monitoring & Tooling**
-* 🗄️ **Databases, Backend Systems & Integrations**
+* 🌐 **Web Development**
+* 🎮 **FiveM Development**
+
 
 I enjoy taking complex systems, breaking them down and turning them into something reliable, scalable and easy to use.
 
 ---
 
-## 🖥️ Systems & Infrastructure
+## // Sys
 
 I am interested in more than just writing code.
 
-I work with the systems behind the code.
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                    SYSTEMS & INFRASTRUCTURE                 │
 ├─────────────────────────────────────────────────────────────┤
-│  Server Management        │  Linux & System Administration  │
+│  Server Management        │  System Administration          │
 │  Networking               │  Services & Deployments         │
-│  Monitoring               │  Automation & Maintenance       │
 │  Security                 │  Performance & Reliability      │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-My goal is simple:
+
 
 > Build systems that stay online, stay maintainable and don't fall apart under pressure.
 
 ---
 
-## 🎮 FiveM Development
+## // FiveM Development
 
-I build advanced systems and resources for the GTA V roleplay ecosystem.
+I build advanced systems and resources for FiveM.
 
 ### What I work on
 
-* 🧩 Framework-agnostic systems
-* ⚙️ ESX, QBCore & QBox integrations
+* ⚙️ ESX, QBCore & QBox resources
 * 🛠️ Advanced gameplay systems
 * 🖥️ NUI interfaces
 * 🚀 Performance-focused resources
@@ -82,13 +72,11 @@ I build advanced systems and resources for the GTA V roleplay ecosystem.
 
 ---
 
-## 🌐 Web Development
+## // Web Development
 
-I build modern web interfaces, dashboards and tools with a focus on:
+I build modern web interfaces, dashboards and FiveM NUI with a focus on:
 
 * Clean and responsive UI
-* Admin dashboards
-* Real-time systems
 * API integrations
 * Frontend architecture
 * Backend logic
@@ -96,7 +84,7 @@ I build modern web interfaces, dashboards and tools with a focus on:
 
 ---
 
-## 🚀 Featured Projects
+## // Featured Projects
 
 <table>
   <tr>
@@ -114,9 +102,9 @@ I build modern web interfaces, dashboards and tools with a focus on:
 
 
 <td width="50%">
-  <h3 align="center">Advanced Crafting</h3>
+  <h3 align="center">d-scenes</h3>
   <p align="center">
-    A multi-stage crafting system featuring blueprints, progression, quality tiers and tool durability.
+    Make scene. Customize it. Save it.
   </p>
   <p align="center">
     <img src="https://img.shields.io/badge/Coming%20Soon-555555?style=for-the-badge" />
@@ -134,7 +122,7 @@ I build modern web interfaces, dashboards and tools with a focus on:
 ---
 
 
-## 📊 GitHub Activity
+## // GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devayee&show_icons=true&hide_border=true&theme=dark&title_color=beee11&icon_color=beee11&text_color=ffffff&bg_color=0d1117" height="165" />
@@ -143,7 +131,7 @@ I build modern web interfaces, dashboards and tools with a focus on:
 
 ---
 
-## 📫 Connect With Me
+## // Connect With Me
 
 <p align="center">
   <a href="https://discord.com">
